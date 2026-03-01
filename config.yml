@@ -5,9 +5,7 @@ profile:
   tagline: "Senior Software Engineer"
   company: "Makai Digital"
   location: "Vitória da Conquista, Brazil"
-  bio: |
-    Transforming complex problems into clean, maintainable software.
-  philosophy: '"Ship clean code, write reliable tests, build things that last."'
+  philosophy: '"Transforming complex problems into clean, maintainable software."'
 
 social:
   linkedin: "gustavommaltez"
@@ -38,7 +36,7 @@ galaxy_arms:
 projects:
   - repo: "gustavomaltez/gmaltez.dev"
     arm: 0
-    description: "Personal blog built with Deno and Fresh, where I write about software development."
+    description: "Personal blog where I write about software development."
 
 # Theme
 theme:
