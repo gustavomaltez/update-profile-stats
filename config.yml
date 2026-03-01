@@ -64,4 +64,6 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
+    - "C"
+    - "JavaScript"
   max_display: 8
