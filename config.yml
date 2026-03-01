@@ -1,0 +1,69 @@
+username: gustavomaltez
+
+profile:
+  name: "Gustavo Maltez"
+  tagline: "Senior Software Engineer"
+  company: "Makai Digital"
+  location: "Vitória da Conquista, Brazil"
+  bio: |
+    Transforming complex problems into clean, maintainable software.
+  philosophy: '"Ship clean code, write reliable tests, build things that last."'
+
+social:
+  linkedin: "gustavommaltez"
+  website: "https://gmaltez.dev"
+
+# Galaxy arms
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "GraphQL"
+      - "PostgreSQL"
+  - name: "Tooling"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "GitHub Actions"
+      - "ESBuild"
+
+# Featured projects
+projects:
+  - repo: "gustavomaltez/gmaltez.dev"
+    arm: 0
+    description: "Personal blog built with Deno and Fresh, where I write about software development."
+
+# Theme
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
